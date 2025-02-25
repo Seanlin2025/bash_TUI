@@ -1,3 +1,5 @@
+練習dialog簡易功能!
+
 # 2025_02_25_DV10712_TUI專案
 簡易的安裝apache與卸載的TUI
 執行前先使用 ```sudo apt install dialog```
