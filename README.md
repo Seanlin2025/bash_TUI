@@ -2,7 +2,7 @@
 
 # 2025_02_25_DV10712_TUI專案
 簡易的安裝apache與卸載的TUI
-執行前先使用 ```sudo apt install dialog```
+執行前先使用 ```sudo apt install dialog```與```chmod +x cooooool.sh```
 確保可以運行。
 ## 操作畫面說明
 
